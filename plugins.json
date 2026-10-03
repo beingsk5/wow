@@ -21,10 +21,10 @@
     },
     {
         "iconUrl": "https://www.yupptv.com/apple-touch-icon.png",
-        "fileHash": "sha256-0288d0218e2a776e54230231b87c707d4f838f55b5e633d3e369057498bcbae0",
+        "fileHash": "sha256-3ce5e4bbb6761eb926e8ede9827361acca600aec0f1a04515d75345baf97ecca",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/beingsk5/wow",
-        "fileSize": 24015,
+        "fileSize": 32120,
         "status": 1,
         "language": "en",
         "authors": [
@@ -33,7 +33,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 4,
         "internalName": "YuppTV",
         "description": "Watch YuppTV free live TV channels online",
         "url": "https://raw.githubusercontent.com/beingsk5/wow/main/YuppTV.cs3",
