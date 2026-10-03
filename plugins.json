@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://crichd.mobile/icons/icon-192x192.png",
-        "fileHash": "sha256-abf38bc0ee5a182b2142bae35c0dd4080f64e63157372414240aa2fa0b6a22c8",
+        "fileHash": "sha256-fb2061021b7e92cc2b162311e6b11510d8479c84503b140ed8f2cbdb9fce991b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/beingsk5/wow",
-        "fileSize": 18284,
+        "fileSize": 20729,
         "status": 1,
         "language": "en",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "CricHD",
         "description": "Watch CricHD live cricket channels and match streams",
         "url": "https://raw.githubusercontent.com/beingsk5/wow/main/CricHD.cs3",
