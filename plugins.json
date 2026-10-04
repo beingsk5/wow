@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsQsag_KQPokaomZsgDV4fiXQ_fi494N6wV8cwKyQQuhSnOh1pAl4lV2Ur-yHCG6IFBimoeWaZKiOTQyyEmfYLetghJRbhyoTHZuzfbZ9VOWZV5aNE4L4akyYmk5D1sB-QLzVQLy200JxziBg0Wwetdxb0Ybf7oqv4R1W8t49rsYLsFkLHZuNPL42I8Q/s512/letter-b.png",
-        "fileHash": "sha256-09c74d68d5a00f949fbef61ee3fa1c94620ff4bf282e9a002c63b942c619b5ca",
+        "fileHash": "sha256-234d3ea22294caaf775b19848d92c3a28ec19a17b3afc3519e10275f87e2aa4d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/beingsk5/wow",
-        "fileSize": 18308,
+        "fileSize": 18362,
         "status": 1,
         "language": "en",
         "authors": [
@@ -13,7 +13,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Bintv",
         "description": "Watch BINTV live sports and 24/7 channels online",
         "url": "https://raw.githubusercontent.com/beingsk5/wow/main/Bintv.cs3",
