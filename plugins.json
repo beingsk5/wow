@@ -61,10 +61,10 @@
     },
     {
         "iconUrl": "https://www.zee5.com/webapp-assets/images/apple-touch-icon.png?ver=7.1.4",
-        "fileHash": "sha256-889060480bd9f014ed69809709ca7791699d1c4bf15d868b2aed4b8fad0cd661",
+        "fileHash": "sha256-5a43f8467e0b425d7ced222e9d1826d988e3e31fdc2c19f36bc1820c01b4bc1d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/beingsk5/wow",
-        "fileSize": 27128,
+        "fileSize": 27157,
         "status": 1,
         "language": "en",
         "authors": [
@@ -73,7 +73,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Zee5",
         "description": "Watch Zee5 live TV channels online",
         "url": "https://raw.githubusercontent.com/beingsk5/wow/main/Zee5.cs3",
