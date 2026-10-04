@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "iconUrl": "https://crichd.mobile/icons/icon-192x192.png",
         "fileHash": "sha256-166a771d4a89dc369bf10c63ae20d85a8ca5bc65bf4a9c005bac33d731fa7018",
@@ -38,5 +38,25 @@
         "description": "Watch YuppTV free live TV channels online",
         "url": "https://raw.githubusercontent.com/beingsk5/wow/main/YuppTV.cs3",
         "name": "YuppTV"
+    },
+    {
+        "iconUrl": "https://www.zee5.com/webapp-assets/images/apple-touch-icon.png?ver=7.1.4",
+        "fileHash": "sha256-889060480bd9f014ed69809709ca7791699d1c4bf15d868b2aed4b8fad0cd661",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/beingsk5/wow",
+        "fileSize": 27128,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "m3u"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Zee5",
+        "description": "Watch Zee5 live TV channels online",
+        "url": "https://raw.githubusercontent.com/beingsk5/wow/main/Zee5.cs3",
+        "name": "Zee5"
     }
 ]
