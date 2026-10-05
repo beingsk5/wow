@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsQsag_KQPokaomZsgDV4fiXQ_fi494N6wV8cwKyQQuhSnOh1pAl4lV2Ur-yHCG6IFBimoeWaZKiOTQyyEmfYLetghJRbhyoTHZuzfbZ9VOWZV5aNE4L4akyYmk5D1sB-QLzVQLy200JxziBg0Wwetdxb0Ybf7oqv4R1W8t49rsYLsFkLHZuNPL42I8Q/s512/letter-b.png",
         "fileHash": "sha256-234d3ea22294caaf775b19848d92c3a28ec19a17b3afc3519e10275f87e2aa4d",
@@ -78,25 +78,5 @@
         "description": "Watch YuppTV free live TV channels online",
         "url": "https://raw.githubusercontent.com/beingsk5/wow/main/YuppTV.cs3",
         "name": "YuppTV"
-    },
-    {
-        "iconUrl": "https://www.zee5.com/webapp-assets/images/apple-touch-icon.png?ver=7.1.4",
-        "fileHash": "sha256-bbefaf4cd27265660a7dbf9a34804fe1f1bcc405b0dd4d2667b871dad963aff4",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/beingsk5/wow",
-        "fileSize": 34738,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "m3u"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 5,
-        "internalName": "Zee5",
-        "description": "Watch Zee5 live TV channels online",
-        "url": "https://raw.githubusercontent.com/beingsk5/wow/main/Zee5.cs3",
-        "name": "Zee5"
     }
 ]
