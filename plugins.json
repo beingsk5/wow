@@ -40,6 +40,26 @@
         "name": "CricHD"
     },
     {
+        "iconUrl": "https://istreamflare.in/assets/logo.png",
+        "fileHash": "sha256-b8deee727d8e4d55d09a77d6fd1c3ea542cdbc5b0c126cbe111c660277ecd99b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/beingsk5/wow",
+        "fileSize": 17235,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "m3u"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Istreamflare",
+        "description": "Watch Istreamflare live TV channels",
+        "url": "https://raw.githubusercontent.com/beingsk5/wow/main/Istreamflare.cs3",
+        "name": "Istreamflare"
+    },
+    {
         "iconUrl": "https://www.yupptv.com/apple-touch-icon.png",
         "fileHash": "sha256-3ce5e4bbb6761eb926e8ede9827361acca600aec0f1a04515d75345baf97ecca",
         "apiVersion": 1,
